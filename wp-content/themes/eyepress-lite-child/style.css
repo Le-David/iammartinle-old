@@ -1,0 +1,38 @@
+/* 
+Theme Name: Eyepress Lite - child
+Theme URL: http://iammartinle.com
+Description: Martin Pham le personal website
+Theme Author: Noor alam
+Author URL: https://profiles.wordpress.org/nalam-1/
+Template: eyepress
+Version: 1.0.3
+Text Domain: eyepress-lite-child 
+*/
+
+/* Navigation menu */
+
+.home-banner-hide header#active-sticky.fixed {
+    height: 60px;
+    background: #000;
+    padding: 15px 0;
+}
+
+/* between navigation menu nad video */
+
+.section-padding {
+    padding: 60px 0 0 0;
+}
+
+main .hentry {
+    margin: 0;
+}
+
+/* footer */
+
+.theme-bg {
+    background-color: #000;
+}
+
+.white-color {
+    font-size: 8px;
+}
